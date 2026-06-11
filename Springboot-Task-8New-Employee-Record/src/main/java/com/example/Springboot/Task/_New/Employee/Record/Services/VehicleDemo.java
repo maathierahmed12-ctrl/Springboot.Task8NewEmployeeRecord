@@ -1,4 +1,7 @@
-package com.example.Springboot.Task._New.Employee.Record.Entities;
+package com.example.Springboot.Task._New.Employee.Record.Services;
+
+import com.example.Springboot.Task._New.Employee.Record.Entities.Vehicle;
+import com.example.Springboot.Task._New.Employee.Record.Entities.VehicleManager;
 
 public class VehicleDemo {
 

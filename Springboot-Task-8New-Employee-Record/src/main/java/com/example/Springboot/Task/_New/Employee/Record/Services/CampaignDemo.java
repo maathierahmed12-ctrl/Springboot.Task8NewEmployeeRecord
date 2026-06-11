@@ -1,4 +1,7 @@
-package com.example.Springboot.Task._New.Employee.Record.Entities;
+package com.example.Springboot.Task._New.Employee.Record.Services;
+
+import com.example.Springboot.Task._New.Employee.Record.Entities.Campaign;
+import com.example.Springboot.Task._New.Employee.Record.Entities.CampaignManager;
 
 public class CampaignDemo {
 
